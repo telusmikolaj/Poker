@@ -18,6 +18,10 @@
 ## Technologies Used
 - Java Swing
 
+## Screenshots
+![Example screenshot](./img/1.png)
+
+
 ## Features
 List the ready features here:
 - Card exchanging
